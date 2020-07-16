@@ -1,0 +1,8 @@
+body{
+    background-color: aliceblue;
+}
+
+.clouds{
+    display: flex;
+    justify-content: space-between;
+}
